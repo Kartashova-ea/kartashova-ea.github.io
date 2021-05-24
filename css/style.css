@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&family=Roboto+Condensed:wght@300&display=swap');
+
+.main-container {
+    max-width: 1490px;
+    display: block;
+    margin: 0 auto;
+}
+
+.start {
+    background-color: rgb(239, 226, 88);
+    height: 300px;
+    display: flex;
+}
+
+h1 {
+    color: #000;
+}
+
+.medical-block {
+    background-color: rgb(2, 234, 194);
+    height: 350px;
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+.medical-block span {
+    margin: 0 50px;
+}
+
+.why-me {
+    background-color: #000;
+    height: 70px;
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+.img {
+    height: 100%;
+}
+
+.img2 {
+    height: 300px;
+}
+
+.startup {
+    height: 100%;
+    padding: 30px 0;
+}
+
+.wfys {
+    padding: 30px 0;
+    background-color: rgb(232, 80, 141);
+    height: 400px;
+}
+
+.mic {
+    display: flex;
+    align-items: center;
+}
+
+.mic span {
+    padding: 0 50px;
+    font-size: 30px;
+}
